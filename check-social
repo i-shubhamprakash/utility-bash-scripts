@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# Usage:
+# Opens all the social accounts in google chorome at once and allow us to check updates quickly.
+#
+# Dependencies:
+# google Chrome browser
+#
+
+google-chrome gmail.com internshala.com linkedin.com twitter.com fb.com instagram.com github.com
